@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **javascript, web scrapping, web automation and web security**
+- 💬 Ask me about **javascript, mobile development, web scrapping, web automation and web security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
